@@ -1,0 +1,27 @@
+
+## express_mongoose_server_starter
+
+### =========references===========
+-tutorials
+
+
+
+
+### features/actions
+
+
+### technologies used
+
+
+### completed tasks
+
+
+### pending tasks
+
+
+
+
+### steps for stripe
+1.search stripe accept payments
+2.copy paste the code
+
